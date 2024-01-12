@@ -1,0 +1,56 @@
+.jewel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px ;
+    /* border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px black; */ */
+}
+.jewel1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+.habib{
+    border: 1px solid rgb(202, 184, 184);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(241, 241, 241);
+    width: 300px;
+    position: relative;
+    left: 200px;
+    padding: 20px;
+    /* margin-left: auto;
+    margin-right: 20%;
+    margin-top: 40px; */
+}
+img{
+    width: 120px;
+    height: 80px;
+}
+.sinno{
+    /* display:flex; */
+    align-items: center;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 150px;
+}
+.habib1{
+    border: 1px solid rgb(202, 184, 184);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(241, 241, 241);
+    width: 300px;
+    position: relative;
+    top:300px;
+    right: 300px;
+    padding: 20px;
+}
+.pera{
+    font-size: 20px;
+    color: rgb(68, 62, 62);
+}
